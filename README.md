@@ -1,2 +1,2 @@
-# MCPExample
-A simple example project to understand the mcp structure and best practices.
+# MCP Example
+An example project to understand the mcp structure and best practices. 
